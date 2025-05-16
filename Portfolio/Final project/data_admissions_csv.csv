@@ -1,0 +1,343 @@
+admission_no,first_name,last_name,sex,occupation,home,age,marital_status,admission_yyyy,admission_mm,admission_dd,from,diagnosis,diagnosis_adjusted,diagnosis_addittional,duration,class,half_price,class_adjusted,attack_no,family_predisposition,departure_yyyy,departure_mm,departure_dd,condition,to,previously_admitted,re_admission,condition_adjusted
+4650,Inger Marie,Bjerregaard,f,gaardmands hustru,Redsted,31,gift,1890,01,03,sygehus,forvirring,dementia,NA,1460,3,y,4,1,y,1890,01,22,doed,NA,y,NA,doed
+4652,Ane Johanne,Pedersen,f,fattiglem,Vrejlev,42,separeret,1890,01,13,fattigaard,mani,mani,NA,28,3,y,4,NA,y,1890,07,22,helbredt,fattigaard,n,y,genindlagt
+4658,Ane Nielsine,Pasgaard,f,husmands hustru,Ringkoebing,46,gift,1890,01,28,hjemmet,melankoli,melankoli,NA,90,3,y,4,1,y,1890,10,18,uhelbredt,hjem,n,y,genindlagt
+4663,Julie Augusta  Christiane,Preuthun,f,forpagters datter,Fruering,24,ugift,1890,02,04,hjemmet,melankoli,melankoli,NA,150,2,n,2,1,n,1890,02,18,doed,NA,n,NA,doed
+4664,Anna Dorthea,Hansen,f,laererinde,Aarhus,40,ugift,1890,02,05,hjemmet,melankoli,melankoli,NA,150,1,n,1,1,y,1893,06,15,helbredt,hjem,n,y,genindlagt
+4665,Karen Eline Kirstine,Jensen,f,tjenende,Laesoe,37,ugift,1890,02,07,hjemmet,fatuitet,fatuitet,NA,1000,3,y,4,1,y,1894,05,01,helbredt,hjem,n,n,helbredt
+4667,Ane Kirstine,Thomsen,f,fattiglem,Granslev,45,ugift,1890,02,13,fattigaard,mani,mani,NA,390,3,y,4,4,y,1900,04,12,doed,NA,y,NA,doed
+4672,Mette Marie,Soerensen,f,skraedders hustru,Loegstoer,44,gift,1890,02,23,fattigaard,forvirring,dementia,NA,270,3,y,4,1,n,1896,04,02,doed,NA,n,NA,doed
+4676,Kirstine,Thylkjaer,f,moellers hustru,Draaby,34,gift,1890,03,05,fattigaard,mani,mani,NA,14,3,y,4,1,n,1890,09,30,helbredt,fattigaard,n,n,helbredt
+4679,Andrea,Nielsen,f,tjenende,Sejerslev,30,ugift,1890,03,07,hjemmet,melankoli,melankoli,NA,30,3,y,4,1,y,1891,04,13,helbredt,hjem,n,n,helbredt
+4680,Christiane Julie Dorthea,Lefolii,f,rektors hustru,Viborg,58,gift,1890,03,09,hjemmet,mani,mani,NA,180,1,n,1,1,y,1892,04,12,bedret,hjem,n,n,bedret
+4682,Marie Elisabeth,Olsen,f,husmands hustru,Noerager,31,gift,1890,03,11,hjemmet,mani,mani,epilepsi,1275,3,y,4,1,y,1902,10,04,doed,NA,n,NA,doed
+4683,Ane,Jensen,f,husmands enke,Roedding,65,enke,1890,03,11,hjemmet,melankoli,melankoli,NA,150,3,y,4,1,y,1890,09,10,bedret,hjem,n,n,bedret
+4686,Ane,Petersen,f,gaardmands hustru,Kalhauge,46,gift,1890,03,21,hjemmet,melankoli,melankoli,NA,120,3,n,3,1,n,1890,10,11,uhelbredt,hjem,n,y,genindlagt
+4687,Ane,Soerensen,f,husmands hustru,Mogenstrup,45,gift,1890,03,25,hjemmet,melankoli,melankoli,NA,730,3,y,4,2,y,1890,06,15,bedret,hjem,n,n,bedret
+4692,Oellegaard,Pedersen,f,vaertshusholders hustru,Horsens,29,gift,1890,04,08,hjemmet,mani,mani,NA,4,2,n,2,1,y,1905,12,20,uhelbredt,anstalt,n,n,uhelbredt
+4693,Inger Marie,Hansen,f,husmands hustru,Horsens,39,gift,1890,04,09,hjemmet,forvirring,dementia,NA,730,3,y,4,2,n,1890,08,03,uhelbredt,hjem,n,y,genindlagt
+4695,Karen Marie,Mortensen,f,skraedders hustru,Nisset,48,gift,1890,04,14,hjemmet,melankoli,melankoli,NA,150,3,y,4,2,y,1890,06,27,bedret,hjem,y,y,genindlagt
+4698,Else Marie,Andersen,f,gaardmands hustru,Hammel,49,gift,1890,04,15,hjemmet,melankoli,melankoli,NA,180,3,n,3,1,n,1890,05,28,bedret,hjem,n,n,bedret
+4699,Ane Kirstine,Jensen,f,skraedders hustru,Katbjerg,40,gift,1890,04,15,hjemmet,melankoli,melankoli,NA,105,3,y,4,1,y,1890,09,02,bedret,hjem,n,y,genindlagt
+4701,Sidsel Marie,Rasmussen,f,tjenende,Brabrand,37,ugift,1890,04,17,sygehus,melankoli,melankoli,NA,180,3,y,4,2,n,1890,07,02,helbredt,fattigaard,n,y,genindlagt
+4705,Reinholdine Juliane,Blegaard,f,laererinde,Tranebjerg Strand,30,ugift,1890,04,22,hjemmet,vanvid,vanvid,epilepsi,2190,3,y,4,1,y,1893,03,31,uhelbredt,Fyn,y,n,uhelbredt
+4710,Camilla Augusta,Sehjul,f,fattiglem,Frederikshavn,44,ugift,1890,05,01,fattigaard,forvirring,dementia,NA,NA,3,y,4,1,n,1899,01,10,doed,NA,y,NA,doed
+4711,Maria Christine,Lajer,f,tjenende,Frederikshavn,22,ugift,1890,05,09,hjemmet,melankoli,melankoli,NA,365,3,y,4,1,n,1899,09,21,doed,NA,n,NA,doed
+4713,Marie Kirstine,Pedersen,f,indsidders datter,Homaa,46,ugift,1890,05,19,hjemmet,forvirring,dementia,NA,365,3,y,4,1,n,1902,11,01,doed,NA,n,NA,doed
+4714,Jensine Pederikke,Rasmussen,f,detaillists hustru,Braedstrup,28,gift,1890,05,21,hjemmet,mani,mani,NA,42,3,y,4,2,n,1891,05,23,bedret,hjem,n,n,bedret
+4716,Christina,Perccon,f,arbejdsmands enke,Grenaa,51,enke,1890,05,22,hjemmet,melankoli,melankoli,NA,365,3,y,4,1,y,1891,06,16,helbredt,hjem,n,n,helbredt
+4716,Frederikke Christine,Haase,f,fattiglem,Aarhus,31,ugift,1890,05,29,fattigaard,forvirring,dementia,NA,1460,3,y,4,1,n,1896,06,01,doed,NA,n,NA,doed
+4728,Gertrud Marie,Laursdatter,f,gaardmands enke,Brodstrup,66,enke,1890,06,13,hjemmet,melankoli,melankoli,NA,42,2,n,2,1,y,1890,09,17,bedret,hjem,n,y,genindlagt
+4729,Elisabeth,Mogensdatter,f,husmands hustru,Pindstrupmark,66,gift,1890,06,14,hjemmet,mani,mani,NA,420,3,y,4,2,y,1891,12,27,doed,NA,y,NA,doed
+4730,Caroline Andrea,Koch,f,rentiers hustru,aeroeskjoebing,36,gift,1890,06,16,hjemmet,vanvid,vanvid,NA,1095,2,n,2,1,y,1890,08,07,uhelbredt,hjem,n,y,genindlagt
+4731,Ane Kathrine,Muller,f,skomagers hustru,Aarhus,48,gift,1890,06,16,hjemmet,melankoli,melankoli,NA,49,3,y,4,1,y,1890,12,31,uhelbredt,hjem,n,n,uhelbredt
+4732,Kirsten,Steffensen,f,husmands datter,Fredsoe,31,ugift,1890,06,23,hjemmet,melankoli,melankoli,NA,45,3,y,4,2,y,1890,11,29,helbredt,hjem,n,n,helbredt
+4733,Ane Kirstine,Jensen,f,moellers datter,Moeborg Moelle,21,ugift,1890,06,23,hjemmet,melankoli,melankoli,NA,90,3,y,4,1,y,1891,09,29,uhelbredt,hjem,n,n,uhelbredt
+4734,Inger Marie,Mogensen,f,husmands hustru,Floender,44,gift,1890,06,25,hjemmet,melankoli,melankoli,NA,60,3,y,4,1,y,1890,11,21,helbredt,hjem,n,n,helbredt
+4737,Ane,Andersen,f,tjenende,Vrads,21,ugift,1890,06,28,hjemmet,mani,mani,NA,45,3,y,4,1,y,1900,05,08,doed,NA,n,NA,doed
+4743,Maren,Langeland,f,snedkers hustru,Aarhus,69,gift,1890,07,15,hjemmet,melankoli,melankoli,NA,180,3,y,4,2,n,1890,09,02,helbredt,hjem,n,n,helbredt
+4744,Petrine,Poulsen,f,husmands datter,Kronenshede,25,ugift,1890,07,15,hjemmet,melankoli,melankoli,NA,NA,3,y,4,1,y,1890,11,01,helbredt,hjem,n,n,helbredt
+4746,Maren Christensen,Velling,f,tjenende,Stoevring,25,ugift,1890,07,19,hjemmet,melankoli,melankoli,NA,28,3,y,4,2,n,1903,01,10,uhelbredt,anstalt,n,n,uhelbredt
+4747,Gjertrud Marie,Bundgaard,f,gaardmands hustru,Korning,54,gift,1890,07,23,hjemmet,vanvid,vanvid,NA,NA,3,n,3,1,y,1898,06,25,doed,NA,y,NA,doed
+4748,Caroline Marie,Steffens,f,maskinarbejders hustru,Aarhus,37,gift,1890,07,23,sygehus,mani,mani,NA,35,3,y,4,1,y,1890,10,14,doed,NA,n,NA,doed
+4751,Mette,Andersen,f,gaardmands datter,Thorup,49,ugift,1890,08,02,sygehus,mani,mani,NA,NA,3,y,4,NA,y,1897,02,03,uhelbredt,anstalt,n,n,uhelbredt
+4754,Jensine,Christensen,f,husmands hustru,Kjoelsengaarde,30,gift,1890,08,05,fattigaard,melankoli,melankoli,NA,49,3,y,4,1,n,1891,03,25,helbredt,hjem,n,n,helbredt
+4755,Mette Kirstine,Nielsen,f,gaardmands datter,Vroending,18,ugift,1890,08,06,hjemmet,melankoli,melankoli,NA,90,3,n,3,1,y,1891,04,08,helbredt,hjem,n,y,genindlagt
+4757,Edel,Therkildsen,f,gaardmands hustru,Borrilsoe,47,gift,1890,08,13,hjemmet,vanvid,vanvid,NA,730,3,n,3,1,y,1891,06,06,bedret,hjem,y,n,bedret
+4758,Maren,Kjeldsen,f,gaardmands enke,Stoevring,60,enke,1890,08,13,hjemmet,mani,mani,NA,30,3,n,3,2,y,1890,10,25,helbredt,hjem,n,n,helbredt
+4762,Thora,Joergensen,f,formers hustru,Horsens,38,gift,1890,08,19,hjemmet,melankoli,melankoli,NA,90,3,y,4,2,y,1890,09,28,helbredt,hjem,y,y,genindlagt
+4765,Sidsel Marie,Jensen,f,husmands hustru,Terp,38,gift,1890,08,28,hjemmet,melankoli,melankoli,NA,30,3,y,4,1,y,1890,10,29,uhelbredt,hjem,n,y,genindlagt
+4768,Karen Marie,Nielsen,f,tjenende,Thrige,39,ugift,1890,09,03,hjemmet,melankoli,melankoli,NA,30,3,y,4,1,n,1891,04,10,bedret,hjem,y,n,bedret
+4769,Sidsel Marie,Rasmussen,f,tjenende,Brabrand,37,ugift,1890,09,03,sygehus,melankoli,melankoli,NA,30,3,y,4,3,n,1896,10,28,helbredt,hjem,y,n,helbredt
+4770,Ane Marie Abelone Lorenzen,Soerensen,f,arbejdsmands hustru,Horsens,27,gift,1890,09,07,hjemmet,mani,mani,NA,14,3,n,3,1,y,1890,09,13,doed,NA,n,NA,doed
+4771,Sara Marie Kirstine,Petersen,f,tjenende,Barrit,30,enke,1890,09,08,hjemmet,vanvid,vanvid,NA,1095,3,y,4,1,n,NA,NA,NA,NA,NA,NA,NA,NA
+4773,Karen Marie,Mortensen,f,skraedders hustru,Nisset,48,gift,1890,09,15,hjemmet,melankoli,melankoli,NA,300,3,y,4,2,y,1892,01,02,helbredt,hjem,y,y,genindlagt
+4774,Christine Vilhelmine,Lind,f,tjenende,Aalborg,34,ugift,1890,09,17,fattigaard,mani,mani,NA,90,3,y,4,1,n,1898,12,26,doed,NA,n,NA,doed
+4775,Christine,Jensen,f,smeds hustru,Vejby,52,gift,1890,09,17,hjemmet,vanvid,vanvid,NA,730,3,y,4,1,n,1892,05,27,helbredt,hjem,n,n,helbredt
+4777,Dorthea,Jeppesen,f,husmands hustru,Jaars,30,gift,1890,09,19,hjemmet,melankoli,melankoli,NA,90,3,y,4,1,y,1891,01,25,helbredt,hjem,n,n,helbredt
+4778,Karen Marie,Nielsen,f,arbejdsmands hustru,Froeslev,35,gift,1890,09,19,sygehus,melankoli,melankoli,NA,60,3,y,4,2,n,1900,10,06,bedret,hjem,n,y,genindlagt
+4779,Hansine,Bentsen,f,landmands enke,Draaby,49,enke,1890,09,20,hjemmet,melankoli,melankoli,NA,90,3,y,4,1,y,1890,10,19,uhelbredt,hjem,n,n,uhelbredt
+4780,Petrine Vilhelmine,Kaae,f,maelkehandlers hustru,Vejlby,35,gift,1890,09,27,hjemmet,melankoli,melankoli,NA,120,3,y,4,1,n,1891,12,18,uhelbredt,hjem,n,n,uhelbredt
+4781,Ane Petrine,Iversen,f,gaardmands hustru,Videstrup,45,gift,1890,10,03,hjemmet,forvirring,dementia,NA,730,3,y,4,1,y,1898,07,02,doed,NA,y,NA,doed
+4782,Thora,Joergensen,f,formers hustru,Horsens,38,gift,1890,10,10,hjemmet,melankoli,melankoli,NA,150,3,y,4,3,y,1891,02,16,bedret,hjem,y,n,bedret
+4783,Christiane Marie,Haugaard,f,gaardbestyrers hustru,Hysup Mark,27,gift,1890,10,13,hjemmet,mani,mani,NA,35,3,y,4,1,y,1892,03,14,doed,NA,n,NA,doed
+4785,Jensine Jensen,Kjeldahl,f,smeds hustru,Holstebro,34,gift,1890,10,14,fattigaard,forvirring,dementia,NA,NA,3,y,4,1,y,1925,06,04,doed,NA,n,NA,doed
+4787,Ane Sophie,Jokumsen,f,tjenende,Roedding,22,ugift,1890,10,15,sygehus,melankoli,melankoli,NA,135,3,y,4,1,n,1894,04,13,helbredt,hjem,n,n,helbredt
+4788,Maren Kappel,Christensen,f,gaardmands enke,Skyum,50,enke,1890,10,17,sygehus,melankoli,melankoli,NA,210,3,n,3,1,y,1892,09,27,uhelbredt,hjem,n,n,uhelbredt
+4789,Caroline,Andersen,f,husmands datter,Tolstrup,19,ugift,1890,10,18,hjemmet,mani,mani,NA,14,3,y,4,1,y,1903,01,24,uhelbredt,anstalt,n,y,genindlagt
+4790,Ane Kirstine,Madsen,f,husmands hustru,Draaby,47,gift,1890,10,22,sygehus,fatuitet,fatuitet,progressiv parese,730,3,y,4,1,n,1890,12,12,doed,NA,n,NA,doed
+4792,Maren,Mikkelsen,f,gaardmands hustru,Torrild,38,gift,1890,10,22,hjemmet,melankoli,melankoli,NA,90,3,n,3,1,y,1890,11,26,bedret,hjem,n,y,genindlagt
+4795,Dorthea,Jensen,f,fattiglem,Draaby,32,ugift,1890,10,27,fattigaard,mani,mani,NA,60,3,y,4,1,y,1891,01,25,bedret,fattigaard,n,y,genindlagt
+4797,Mette Kathrine,Jensen,f,traeskomands hustru,Saxild,37,gift,1890,11,03,hjemmet,melankoli,melankoli,NA,NA,3,y,4,1,y,1898,01,05,bedret,hjem,n,n,bedret
+4798,Ane Kirstine,Soerensen,f,gaardmands datter,Forlev,78,ugift,1890,11,10,hjemmet,fatuitet,fatuitet,NA,NA,3,y,4,1,y,1891,06,24,doed,NA,n,NA,doed
+4809,Else Kathrine,Knudsen,f,toemrers enke,Fabjerg,59,enke,1890,11,21,sygehus,mani,mani,NA,270,3,y,4,NA,n,1891,04,13,helbredt,hjem,y,y,genindlagt
+4810,Else,Boegh,f,fattiglem,Kjettrup-Gjoettrup,55,ugift,1890,11,23,hjemmet,mani,mani,NA,1825,3,y,4,1,y,1905,12,13,doed,NA,n,NA,doed
+4811,Kathrine,Poulsen,f,arbejdsmands hustru,Odder,37,gift,1890,11,25,hjemmet,forvirring,dementia,epilepsi,NA,3,y,4,1,y,1904,08,29,doed,NA,n,NA,doed
+4812,Christiane,Ottesen,f,vaever,Ingstrup,48,ugift,1890,11,30,hjemmet,melankoli,melankoli,NA,730,3,y,4,1,y,1896,01,01,bedret,hjem,n,n,bedret
+4813,Nielsine Rasmine,Larsen,f,entreprenoers hustru,Vellingmark,37,gift,1890,12,04,sygehus,mani,mani,NA,60,3,n,3,7,y,1891,04,30,helbredt,hjem,y,y,genindlagt
+4819,Sofie Vilhelmine,Carlsen,f,tjenende,Aalborg,28,ugift,1890,12,20,anstalt,melankoli,melankoli,NA,548,3,y,4,2,n,1891,11,09,helbredt,hjem,n,n,helbredt
+4651,Ludvig Jakob,Bruhn,m,slagtersvend,Aalborg,35,gift,1890,01,11,anstalt,dementia,dementia,progressiv parese,90,3,y,4,1,n,1890,11,15,doed,NA,n,n,doed
+4653,Zakarias,Jensen,m,smed,Koldt,39,gift,1890,01,13,sygehus,vanvid,vanvid,NA,60,3,y,4,NA,y,1891,02,02,bedret,hjem,n,n,bedret
+4654,Joergen,Henriksen,m,bolsmand,Sall Mark,68,gift,1890,01,18,hjemmet,mani,mani,NA,120,3,n,3,2,n,1890,04,02,helbredt,hjem,n,y,genindlagt
+4655,Jens,Nielsen,m,gaardejer,Vroending,53,gift,1890,01,22,hjemmet,melankoli,melankoli,NA,60,3,n,3,1,y,1891,06,25,bedret,hjem,n,n,bedret
+4656,Niels Moeller Jensen,Sundstrup,m,tjenende,Tapdrup Hede,20,ugift,1890,01,23,arbejdsanstalt,mani,mani,NA,75,3,y,4,1,y,1894,09,19,doed,NA,n,NA,doed
+4657,Johan Peter,Petersen,m,gjoertlersvend,Horsens,41,gift,1890,01,27,sygehus,forvirring,dementia,epilepsi,730,3,y,4,1,n,1891,03,05,helbredt,Aarhus,n,n,helbredt
+4659,Henrik,Esbensen,m,aftaegtsmand,Nannerup,50,enkemand,1890,01,28,sygehus,mani,mani,NA,30,3,y,4,NA,y,1890,02,18,helbredt,hjem,n,y,genindlagt
+4660,Jens Jensen,Sandby,m,arbejdsmand,Hadsten,57,gift,1890,01,28,hjemmet,mani,mani,NA,42,3,y,4,NA,y,1890,03,18,helbredt,hjem,n,y,genindlagt
+4661,Jacob,Krigbaum,m,snedkersvend,Resenfeld,35,ugift,1890,01,29,sygehus,vanvid,vanvid,NA,730,3,y,4,1,n,NA,NA,NA,NA,NA,NA,NA,NA
+4662,Jens,Mikkelsen,m,gaardmand,Tvingstrup,46,ugift,1890,02,01,hjemmet,fatuitet,fatuitet,NA,2492,3,n,3,1,y,1929,09,28,doed,NA,y,NA,doed
+4666,Regnar,Hovmann,m,forvalter,Hedemoekke,23,ugift,1890,02,12,hjemmet,mani,mani,NA,2,3,n,3,NA,y,1890,08,04,helbredt,hjem,n,n,helbredt
+4668,Niels Peter,Eriksen,m,tjenende,Hvirring Mark,24,ugift,1890,02,13,hjemmet,melankoli,melankoli,NA,8,3,n,3,1,y,1890,09,13,helbredt,hjem,n,n,helbredt
+4669,Niels Christen,Jensen,m,husmand,Elsborg,51,gift,1890,02,14,hjemmet,melankoli,melankoli,NA,1460,3,y,4,1,y,1890,06,21,uhelbredt,hjem,n,n,uhelbredt
+4670,Vilhelm Tiburtius,Strange,m,koebmand,Horsens,40,ugift,1890,02,15,hjemmet,mani,mani,progressiv parese,548,3,n,3,1,n,1890,02,23,doed,NA,n,NA,doed
+4671,Albert Christian Scharling,Bahner,m,farver,Hjoerring,53,gift,1890,02,21,hjemmet,melankoli,melankoli,NA,60,2,n,2,1,y,1890,06,06,helbredt,hjem,n,n,helbredt
+4673,Johan Vilhelm,Pahl,m,smedelaerling,Frederikshavn,19,ugift,1890,02,23,sygehus,fatuitet,fatuitet,NA,1095,3,y,4,1,n,1897,01,21,doed,NA,n,NA,doed
+4674,Poul Hansen,Kyhl,m,straffefange,Grenaa,60,gift,1890,02,25,straffeanstalt,vanvid,vanvid,NA,365,3,y,4,1,n,1890,07,07,uhelbredt,hjem,n,n,uhelbredt
+4675,Soeren,Frandsen,m,husmand,Ellerup,63,gift,1890,03,01,hjemmet,mani,mani,NA,105,3,y,4,3,y,1896,08,29,doed,NA,y,NA,doed
+4677,Jens Christian Vedel,Madsen,m,tjenende,Handbjerg,25,ugift,1890,03,06,hjemmet,mani,mani,NA,28,3,y,4,1,y,1890,10,21,helbredt,hjem,n,y,genindlagt
+4678,Christen Andersen,Christensen,m,gaardmands soen,Skjoldborg,27,ugift,1890,03,06,hjemmet,forvirring,dementia,NA,2920,3,n,3,1,y,1900,12,01,bedret,hjem,y,n,bedret
+4681,Oscar,Meulengracht,m,praest,Onsbjerg,42,gift,1890,03,10,hjemmet,mani,mani,NA,14,1,n,1,1,y,1890,05,02,helbredt,hjem,n,n,helbredt
+4684,Soeren Nielsen,Fruergaard,m,gaardejer,oesterboelle,38,ugift,1890,03,13,sygehus,melankoli,melankoli,NA,60,3,n,3,1,y,1890,05,17,helbredt,hjem,n,n,helbredt
+4685,Thomas Christian,Villadsen,m,gaardmand,Yttrup,59,gift,1890,03,15,hjemmet,mani,mani,NA,14,3,y,4,4,y,1890,07,22,bedret,hjem,y,n,bedret
+4688,Christen Andersen,Andersen,m,tjenende,Djoerup,55,ugift,1890,03,27,hjemmet,mani,mani,NA,30,3,n,3,2,y,1890,05,16,helbredt,hjem,n,y,genindlagt
+4689,Hans,Jepsen,m,gartner,Holstebro,64,ugift,1890,03,29,fattigaard,melankoli,melankoli,NA,14,3,y,4,8,y,1890,08,11,helbredt,hjem,y,y,genindlagt
+4690,Peder Christian,Larsen,m,tjenende,Aggersborg Ullerup,19,ugift,1890,03,30,hjemmet,mani,mani,NA,56,3,y,4,1,n,1890,10,20,helbredt,hjem,n,n,helbredt
+4691,Carl Christian,Schultz,m,godsinspektoer,Lindenborg,44,gift,1890,04,01,hjemmet,fatuitet,fatuitet,progressiv parese,635,2,n,2,1,n,1891,04,09,doed,NA,n,NA,doed
+4694,Erik,Petersen,m,fattiglem,Voldby,33,ugift,1890,04,10,hjemmet,fatuitet,fatuitet,NA,1095,3,y,4,1,n,1900,09,19,uhelbredt,fattigaard,n,n,uhelbredt
+4696,Anders Christian Nielsen,Dalgaard,m,husmand,Vejrum,43,gift,1890,04,14,fattigaard,mani,mani,NA,90,3,y,4,NA,y,1911,07,30,doed,NA,y,NA,doed
+4697,Laurids Christian,Christensen,m,haandvaerker,Bedsted,21,ugift,1890,04,14,sygehus,mani,mani,NA,120,3,y,4,2,y,1890,06,17,helbredt,hjem,n,n,helbredt
+4700,Ernst Lauritz,Fenger,m,gartner,Aarhus,21,ugift,1890,04,17,hjemmet,fatuitet,fatuitet,NA,730,3,y,4,1,y,1905,02,02,uhelbredt,anstalt,y,n,uhelbredt
+4702,Niels,Nielsen,m,husmand,Soeften,51,gift,1890,04,19,hjemmet,vanvid,vanvid,NA,183,3,y,4,1,y,1898,07,09,helbredt,hjem,n,n,helbredt
+4703,Peter Christian Nielsen,Brok,m,traeskomager,Skjodstrup,49,ugift,1890,04,21,hjemmet,mani,mani,NA,21,3,y,4,2,n,1892,09,05,helbredt,familie,y,y,genindlagt
+4704,Jens Peter,Larsen,m,tjenende,Skoogaardehus,20,ugift,1890,04,22,hjemmet,mani,mani,NA,365,3,y,4,1,y,1920,02,06,doed,NA,n,NA,doed
+4706,Niels Oscar,Juul,m,manufakturhandler,Bergen i Norge,41,gift,1890,04,24,hjemmet,mani,mani,progressiv parese,NA,1,n,1,1,n,1890,06,18,doed,NA,n,NA,doed
+4707,Niels,Nielsen,m,gaardmands soen,Skejby,21,ugift,1890,04,24,sygehus,mani,mani,NA,6,3,n,3,1,y,1890,07,28,helbredt,hjem,n,n,helbredt
+4708,Hans Ferdinand Payngh,Tornoee,m,sognepraest,Veggerslev,46,gift,1890,04,29,Koebenhavn,vanvid,vanvid,NA,365,1,n,1,1,y,1891,06,27,bedret,hjem,n,n,bedret
+4709,Bendt,Balleby,m,laerer,Jebjerg,52,gift,1890,04,30,hjemmet,mani,mani,NA,28,3,y,4,NA,y,1891,04,25,helbredt,hjem,y,y,genindlagt
+4712,Peder,Soerensen,m,gaardmands soen,Moerke,19,ugift,1890,05,18,hjemmet,melankoli,melankoli,NA,60,2,n,2,1,y,1890,06,23,helbredt,hjem,n,n,helbredt
+4715,Peder Joergen,Pedersen,m,tjenende,Vellev,17,ugift,1890,05,22,hjemmet,melankoli,melankoli,NA,28,3,y,4,1,y,1890,07,31,helbredt,hjem,n,n,helbredt
+4717,Johan Heinrich,Zornig,m,blikkenslager,Aarhus,43,gift,1890,05,22,hjemmet,mani,mani,progressiv parese,425,3,y,4,1,y,1890,08,24,bedret,hjem,y,y,genindlagt
+4718,Sofus,Nejst,m,toemrer,Flade,28,ugift,1890,05,23,fattigaard,vanvid,vanvid,NA,1004,3,y,4,2,n,1890,08,17,bedret,familie,y,y,genindlagt
+4719,Johan Rasmus,Johansen,m,malermester,Aalborg,47,gift,1890,05,24,sygehus,mani,mani,NA,56,3,y,4,1,n,1891,10,13,helbredt,familie,n,y,genindlagt
+4720,Julius Christian,Christensen,m,bagersvend,Aarhus,36,ugift,1890,05,27,fattigaard,vanvid,vanvid,NA,183,3,y,4,1,y,1910,09,09,doed,NA,n,NA,doed
+4722,Richard Albert Gustav Adolf,Sperling,m,bagersvend,oerum Daugaard,35,ugift,1890,05,30,fattigaard,forvirring,dementia,NA,2190,3,y,4,1,n,1940,05,08,doed,NA,n,NA,doed
+4723,Gustav Adolf,Selmer,m,materialforvalter,Aarhus,65,fraskilt,1890,06,02,hjemmet,fatuitet,fatuitet,NA,2190,2,n,2,1,y,1890,06,24,doed,NA,n,NA,doed
+4724,Anton Peter Nikolai Schoen,Eriksen,m,laerer,Allingaabro,43,gift,1890,06,03,hjemmet,vanvid,vanvid,NA,NA,3,y,4,1,y,1890,08,30,uhelbredt,hjem,n,n,uhelbredt
+4725,Florian Robertus,Moeller,m,slagter,Aarhus,32,gift,1890,06,03,sygehus,mani,mani,NA,60,3,y,4,NA,y,1890,07,06,helbredt,hjem,y,n,helbredt
+4726,Peter,Christensen,m,gaardmand,Flade,37,ugift,1890,06,06,hjemmet,forvirring,dementia,NA,NA,3,n,3,NA,y,1930,08,26,doed,NA,y,NA,doed
+4727,Niels Christen,Poulsen,m,indsidder,Toendering,29,gift,1890,06,10,sygehus,melankoli,melankoli,NA,45,3,y,4,1,y,1890,07,19,helbredt,hjem,n,n,helbredt
+4735,Joergen Peter,Rasmussen,m,vaever,Noerager,49,gift,1890,06,27,hjemmet,forvirring,dementia,progressiv parese,120,3,y,4,1,n,1893,07,30,doed,NA,n,NA,doed
+4736,Anders,Christensen,m,husmand,Toerring,60,gift,1890,06,28,hjemmet,melankoli,melankoli,NA,90,3,y,4,3,y,1890,07,29,bedret,hjem,y,n,bedret
+4738,Jens Joergensen,Nielsen,m,smedesvend,Ferslev,26,ugift,1890,07,08,sygehus,melankoli,melankoli,NA,60,3,y,4,1,n,1896,02,11,doed,NA,n,NA,doed
+4739,Jens Christian,Pedersen,m,tjenende,Heltborg,28,ugift,1890,07,09,hjemmet,vanvid,vanvid,NA,365,3,y,4,1,y,1916,03,16,doed,NA,n,NA,doed
+4740,Niels Jensen,Gravholt,m,gaardejer,Gravholt,56,gift,1890,07,11,hjemmet,melankoli,melankoli,NA,730,2,n,2,2,y,1890,09,23,helbredt,hjem,n,y,genindlagt
+4741,Peter Frederiksen,Schmidt,m,tjenende,Graedstrup,40,ugift,1890,07,12,hjemmet,fatuitet,fatuitet,NA,2555,3,y,4,1,y,1900,09,08,uhelbredt,hjem,n,n,uhelbredt
+4742,Anders Christian,Poulsen,m,arbejdsmand,Skibsted,22,gift,1890,07,15,hjemmet,mani,mani,NA,9,3,y,4,1,n,1890,10,20,helbredt,hjem,n,n,helbredt
+4745,Christen,Nielsen,m,gaardkarl,Aalborg,36,ugift,1890,07,17,sygehus,melankoli,melankoli,NA,1095,3,y,4,1,n,1893,10,27,bedret,hjem,n,n,bedret
+4749,Christen,Overgaard,m,gaardejer,oestervandet,50,gift,1890,07,23,hjemmet,melankoli,melankoli,NA,150,2,n,2,1,n,1891,02,15,bedret,hjem,n,n,bedret
+4750,Simon,Nielsen,m,tjenende,Hyrup,20,ugift,1890,07,31,hjemmet,melankoli,melankoli,NA,30,3,y,4,1,y,1890,12,06,doed,NA,n,NA,doed
+4752,Martin,Johansen,m,fisker,Bangsbostrand,30,gift,1890,08,02,hjemmet,melankoli,melankoli,NA,90,3,y,4,1,y,1892,12,08,bedret,hjem,n,n,bedret
+4753,Peder,Soerensen,m,gaardmand,Haar,65,enkemand,1890,08,04,sygehus,melankoli,melankoli,NA,183,2,n,2,1,y,1891,02,18,bedret,hjem,n,y,genindlagt
+4756,Lars,Loefstroem,m,maskinarbejder,Aarhus,31,gift,1890,08,08,fattigaard,mani,mani,NA,120,3,y,4,1,n,1890,11,16,helbredt,fattigaard,n,y,genindlagt
+4759,Laurits,Jensen,m,handelskommissionaer,Viborg,29,ugift,1890,08,13,hjemmet,melankoli,melankoli,NA,60,3,n,3,1,y,1890,11,01,helbredt,familie,n,y,genindlagt
+4760,Apel Martinus,Andersen,m,tjenende,Vrads,16,ugift,1890,08,13,hjemmet,mani,mani,NA,42,3,y,,1,y,1890,11,07,helbredt,hjem,n,n,helbredt
+4761,Jens Christian,Jensen,m,skomagersvend,Skagen,22,ugift,1890,08,18,hjemmet,fatuitet,fatuitet,NA,2555,3,y,4,1,y,1895,02,27,uhelbredt,hjem,n,n,uhelbredt
+4763,Jens Peter,Soerensen,m,laerer,Aarslev,50,gift,1890,08,21,sygehus,mani,mani,NA,NA,3,n,3,NA,n,1890,11,17,bedret,hjem,n,y,genindlagt
+4764,Niels Soeren Edvard,Wilson,m,fjederhandler,Maarslet,56,gift,1890,08,26,anstalt,fatuitet,fatuitet,progressiv parese,730,3,y,4,1,n,1891,05,15,doed,NA,n,NA,doed
+4766,Peder Christian,Pedersen,m,gaardmands soen,Kjestruo,20,ugift,1890,08,28,hjemmet,mani,mani,NA,120,2,n,2,NA,y,1890,10,29,bedret,hjem,n,y,genindlagt
+4767,Christian Carl Henriksen,Well,m,vaever,Soevind,34,gift,1890,09,01,hjemmet,melankoli,melankoli,NA,60,3,y,4,2, n,1890,11,06,helbredt,hjem,y,y,genindlagt
+4772,Volmer Rise,Ring,m,cand. philos,Skive,22,ugift,1890,09,09,Rindsholm Kro,melankoli,melankoli,NA,NA,2,n,2,1,y,1896,09,01,doed,NA,n,NA,doed
+4776,Christen,Thomsen,m,gaardmands soen,Fristrup,33,ugift,1890,09,18,sygehus,fatuitet,fatuitet,NA,3650,3,y,4,NA,y,1900,05,19,uhelbredt,,n,n,uhelbredt
+4784,Peder,Hansen,m,husmand,Vipskov Mark,42,gift,1890,10,13,hjemmet,vanvid,vanvid,NA,30,3,y,4,1,n,1890,11,10,uhelbredt,hjem,n,y,genindlagt
+4786,Andreas,Nielsen,m,soemand,Hornskov,28,ugift,1890,10,14,sygehus,vanvid,vanvid,NA,NA,3,y,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4791,Lars Andreas,Feldthusen,m,arrestant,Randers,36,gift,1890,10,22,arrest,fatuitet,fatuitet,NA,NA,3,y,4,1,y,1891,01,25,uhelbredt,arrest,n,n,uhelbredt
+4793,Sivert Joergen Jensen,Dine,m,tjenende,Hedensted,25,ugift,1890,10,24,sygehus,melankoli,melankoli,NA,183,3,n,3,1,n,1896,05,28,bedret,familie,n,n,bedret
+4794,Soeren,Petersen,m,fattiglem,Aale,42,gift,1890,10,25,fattigaard,mani,mani,epilepsi,NA,3,y,4,1,y,1896,12,15,doed,NA,n,NA,doed
+4796,Rasmus Andersen,Soft,m,tjenende,Holme-Tranbjerg,21,ugift,1890,11,01,hjemmet,melankoli,melankoli,epilepsi,60,3,y,4,2,y,NA,NA,NA,NA,NA,y,NA,NA
+4799,Laurits,Andersen,m,husmand,Vejrum,39,gift,1890,11,12,sygehus,vanvid,vanvid,NA,2373,3,y,4,1,y,1906,03,06,uhelbredt,anstalt,y,n,uhelbredt
+4800,Mads Christian Jensen,Holt,m,skovrider,Parboel,50,gift,1890,11,13,hjemmet,melankoli,melankoli,NA,183,3,n,3,1,y,1891,01,05,helbredt,hjem,n,n,helbredt
+4801,Jens,Nicolaysen,m,dampskibsfoerer,Aarhus,48,gift,1890,11,13,hjemmet,melankoli,melankoli,NA,60,2,n,2,1,n,1891,01,17,helbredt,hjem,n,n,helbredt
+4802,Andreas Christian,Samson,m,koebmand,Aarhus,77,enkemand,1890,11,13,hjemmet,fatuitet,fatuitet,NA,NA,2,n,2,1,n,1893,12,12,doed,NA,n,NA,doed
+4803,Terkild,Jensen,m,tjenende,Lyngby,32,ugift,1890,11,15,hjemmet,mani,mani,epilepsi,NA,3,y,4,1,y,1891,03,01,uhelbredt,hjem,n,n,uhelbredt
+4804,Sofus,Nejst,m,toemrer,Flade,28,ugift,1890,11,15,fattigaard,vanvid,vanvid,NA,1278,3,y,4,2,n,1891,06,04,bedret,hjem,y,y,genindlagt
+4805,Carl Vinding,Dehlholm,m,landmand,Kattrup,73,enkemand,1890,11,17,hjemmet,mani,mani,NA,NA,3,n,3,NA,y,1893,06,13,doed,NA,n,NA,doed
+4806,Christian Frederik,Jensen,m,forpagter,Rodstenseje,57,gift,1890,11,17,hjemmet,melankoli,melankoli,NA,NA,1,n,1,1,y,1891,01,29,bedret,Aarhus,n,n,bedret
+4807,Johan Heinrich,Zornig,m,blikkenslager,Aarhus,43,gift,1890,11,19,hjemmet,fatuitet,fatuitet,progressiv parese,730,3,y,4,1,y,1891,06,23,doed,NA,y,NA,doed
+4808,Betel Joergensen,Knudsen,m,gaardmands soen,Roende,28,ugift,1890,11,21,hjemmet,forvirring,dementia,NA,1460,2,n,2,1,y,1905,04,07,uhelbredt,anstalt,y,n,uhelbredt
+4814,Johan Peter,Schou,m,sagfoerer,Odder,30,ugift,1890,12,05,hjemmet,melankoli,melankoli,NA,90,2,n,2,2,n,1891,03,07,helbredt,hjem,n,n,helbredt
+4815,Hans Peter Henrik,Wilhelmsen,m,koebmand,Aarhus,47,gift,1890,12,06,hjemmet,mani,mani,progressiv parese,1095,3,y,4,2,n,1890,12,25,doed,NA,y,NA,doed
+4816,Christen Kirkegaard,Soerensen,m,tjenende,Nees,33,ugift,1890,12,10,hjemmet,fatuitet,fatuitet,NA,NA,3,n,3,1,y,1904,03,03,uhelbredt,anstalt,y,n,uhelbredt
+4817,Jens Jensen,Friis,m,gaardmands soen,Kopsholt,28,ugift,1890,12,18,hjemmet,fatuitet,fatuitet,NA,3285,2,n,2,1,n,1903,03,12,bedret,hjem,y,n,bedret
+4818,Marius,Rasmussen,m,gaardmands soen,Aabo,23,ugift,1890,12,20,sygehus,melankoli,melankoli,NA,14,3,n,3,2,y,1891,06,20,helbredt,hjem,n,y,genindlagt
+4820,Rasmus Andersen,Soerensen,m,skomager,Dyngby,38,gift,1890,12,27,hjemmet,melankoli,melankoli,NA,NA,3,y,4,NA,n,1900,04,02,bedret,hjem,y,n,bedret
+4823,Kirsten Marie,Soerensen,f,tjenende,Hoerning,21,ugift,1891,01,03,sygehus,melankoli,melankoli,NA,75,3,y,4,1,n,1891,06,25,helbredt,hjem,n,n,helbredt
+4825,Karen,Zachariasen,f,strygejomfru,Aarhus,38,ugift,1891,01,07,hjemmet,melankoli,melankoli,NA,150,3,y,4,2,n,1902,06,21,uhelbredt,anstalt,y,y,genindlagt
+4827,Inger,Jensen,f,bolsmands datter,Vejerslev,16,ugift,1891,01,13,hjemmet,melankoli,melankoli,NA,90,3,y,4,1,n,1891,02,10,helbredt,hjem,n,n,helbredt
+4828,Lydia Eugenia Viktoria,Nielsen,f,fattiglem,Aalborg,34,ugift,1891,01,13,anstalt,fatuitet,fatuitet,epilepsi,NA,3,y,4,1,y,1896,04,29,doed,NA,n,NA,doed
+4829,Hilda Gyritter,Buhl,f,pensionatbestyrerinde,Randers,48,ugift,1891,01,16,hjemmet,vanvid,vanvid,NA,NA,2,n,2,1,n,1908,10,26,doed,NA,n,NA,doed
+4830,Dorthea,Rasmussen,f,gaardmands datter,Aabo,21,ugift,1891,01,18,sygehus,forvirring,dementia,NA,NA,3,n,3,1,y,1891,11,14,bedret,hjem,n,y,genindlagt
+4832,Johanne,Christiansen,f,gaardmands datter,Trebjerre,39,ugift,1891,01,24,sygehus,vanvid,vanvid,NA,NA,3,y,4,1,y,1898,09,19,bedret,hjem,n,n,bedret
+4834,Emilie Martine Kirstine,Olsen,f,husmands hustru,Daugstrup Mark,29,gift,1891,01,29,sygehus,melankoli,melankoli,NA,90,3,y,4,1,y,1891,04,30,helbredt,hjem,n,n,helbredt
+4837,Ane,Jensen,f,husmands hustru,Them,27,gift,1891,02,03,hjemmet,melankoli,melankoli,NA,12,3,y,4,1,y,1891,04,30,helbredt,hjem,n,n,helbredt
+4838,Ane Kathrine Kistine,Frederiksen,f,husmands datter,Hjortsvang,21,ugift,1891,02,04,sygehus,mani,mani,NA,90,3,y,4,NA,y,1891,07,30,helbredt,hjem,n,n,helbredt
+4840,Iudithe Kirstine,Moeller,f,sagfoerers hustru,Terndrup,37,gift,1891,02,09,hjemmet,mani,mani,NA,NA,2,n,2,1,y,1891,03,30,bedret,hjem,n,y,genindlagt
+4841,Petrine,Clausen,f,tjenende,oerslevkloster,31,ugift,1891,02,18,sygehus,vanvid,vanvid,NA,NA,3,y,4,1,y,1891,06,23,uhelbredt,hjem,n,n,uhelbredt
+4842,Mette,Hansted,f,korporals enke,Horsens,76,enke,1891,02,20,hjemmet,mani,mani,NA,60,3,y,4,1,y,1891,06,07,helbredt,hjem,n,n,helbredt
+4844,Marie Frederikke,Seelen,f,saddelmagers datter,Grenaa,34,ugift,1891,02,25,hjemmet,mani,mani,NA,8,2,n,2,1,n,1896,11,01,uhelbredt,hjem,n,n,uhelbredt
+4846,Dagmar,Synnestved,f,direktoers datter,Randers,31,ugift,1891,02,26,hjemmet,melankoli,melankoli,NA,21,1,n,1,1,y,1891,07,02,helbredt,hjem,n,n,helbredt
+4847,Inger,Pedersen,f,tjenende,Kjellerup,34,ugift,1891,02,26,sygehus,melankoli,melankoli,NA,105,3,y,4,1,n,1891,06,27,helbredt,hjem,n,y,genindlagt
+4848,Maren,Nielsen,f,husmands hustru,Karlby,30,gift,1891,02,27,hjemmet,melankoli,melankoli,NA,150,3,y,4,2,y,1891,04,06,bedret,hjem,n,n,bedret
+4850,Ane Malene Margrethe,Jensen,f,gaardmands enke,Laanum,53,enke,1891,03,05,hjemmet,vanvid,vanvid,NA,548,3,y,4,1,y,1891,07,02,uhelbredt,hjem,n,y,genindlagt
+4853,Ane Marie,Soerensen,f,gaardmands hustru,Skindbjerg,46,gift,1891,03,09,hjemmet,dementia,dementia,epilepsi,183,2,n,2,1,n,1891,06,19,uhelbredt,hjem,n,n,uhelbredt
+4854,Nicoline Marie,Nielsen,f,tjenende,Viborg,32,ugift,1891,03,10,hjemmet,forvirring,dementia,NA,NA,3,y,4,1,y,1904,04,06,uhelbredt,anstalt,n,n,uhelbredt
+4856,Else Marie,Pedersdatter,f,mejerske,Understed,51,ugift,1891,03,14,hjemmet,forvirring,dementia,NA,365,2,n,2,1,n,1914,10,31,doed,NA,n,NA,doed
+4861,Severine,Petersen,f,traehandlers hustru,Randers,41,gift,1891,03,28,hjemmet,melankoli,melankoli,NA,21,3,y,4,1,n,1903,01,24,uhelbredt,anstalt,n,y,genindlagt
+4862,Rebekka,Wreschner,f,praests datter,Randers,26,ugift,1891,04,02,sygehus,mani,mani,NA,10,2,n,2,3,y,1891,04,04,doed,NA,n,NA,doed
+4864,Jensine,Christensen,f,ledevogters hustru,Hornslet,40,gift,1891,04,07,sygehus,mani,mani,NA,21,3,y,4,1,y,1891,06,12,helbredt,hjem,n,n,helbredt
+4868,Johanne Christine,Larsen,f,gaardmands hustru,Doff Noerregaard,30,gift,1891,04,10,hjemmet,mani,mani,NA,21,3,n,3,1,y,1891,12,30,bedret,hjem,n,n,bedret
+4869,Mette Kathrine,Nielsen,f,gaardmands datter,Attrup,22,ugift,1891,04,11,hjemmet,mani,mani,NA,90,3,n,3,NA,y,1891,11,24,helbredt,hjem,y,y,genindlagt
+4872,Mette Lene,Mikkelsen,f,tjenende,Urlev,33,ugift,1891,04,22,hjemmet,melankoli,melankoli,NA,274,3,y,4,2,y,1893,11,20,helbredt,hjem,y,n,helbredt
+4874,Christiane Sophie,Larsen,f,hospitalslem,Randers,62,enke,1891,04,27,hjemmet,mani,mani,NA,49,3,n,3,NA,n,1891,08,14,helbredt,sygehus,n,n,helbredt
+4876,Ane Nielsen,Pasgaard,f,husmands hustru,Rom (Skodborg H),47,gift,1891,04,27,hjemmet,melankoli,melankoli,NA,487,3,y,4,1,y,1898,09,29,bedret,hjem,y,n,bedret
+4878,Marie Frederikke,Lutker,f,oberstlieutenants hustru,Aarhus,45,gift,1891,04,28,hjemmet,melankoli,melankoli,NA,240,1,n,1,1,n,1891,06,13,helbredt,familie,n,n,helbredt
+4879,Ane Kathrine Olesen,Petersen,f,arbejdsmands enke,Silkeborg,45,enke,1891,04,29,sygehus,mani,mani,NA,42,3,y,4,2,n,1892,04,17,helbredt,hjem,n,n,helbredt
+4883,Else Kathrine,Knudsen,f,toemrers enke,Fabjerg,60,enke,1891,05,02,sygehus,mani,mani,NA,8,3,y,4,NA,n,1892,01,25,helbredt,fattigaard,y,y,genindlagt
+4884,Sara,Petersen,f,gaardmands hustru,oelsted,64,gift,1891,05,03,hjemmet,melankoli,melankoli,NA,120,3,n,3,1,n,1891,08,31,doed,NA,n,NA,doed
+4888,Caroline Marie,Nielsen,f,symaskinefabrikants datter,Aarhus,30,ugift,1891,05,08,hjemmet,fatuitet,fatuitet,epilepsi,1460,1,n,1,1,y,1891,05,21,uhelbredt,hjem,n,y,genindlagt
+4889,Kirsten,Jensen,f,husmands enke,Haldrup,69,enke,1891,05,09,hjemmet,melankoli,melankoli,NA,3650,3,n,3,1,n,1896,06,14,doed,NA,n,NA,doed
+4890,Johanne Marie Dorthea,Soerensen,f,husmands hustru,Gundersted,33,gift,1891,05,11,hjemmet,melankoli,melankoli,NA,60,3,y,4,NA,y,1900,08,31,uhelbredt,,y,n,uhelbredt
+4892,Inger Marie,Madsen,f,husejerske,Raasted,33,ugift,1891,05,15,sygehus,mani,mani,NA,21,3,y,4,6,n,1892,03,28,helbredt,hjem,y,n,helbredt
+4894,Kirstine,Groenvaldt-Nielsen,f,hoejskoleforstanders hustru,Vestbirk,32,gift,1891,05,16,hjemmet,vanvid,vanvid,NA,NA,2,n,2,1,y,1891,12,23,uhelbredt,hjem,n,y,genindlagt
+4898,Gjertrud Marie,Andersen,f,gaardmands enke,Troelstrup,67,enke,1891,05,23,hjemmet,mani,mani,NA,14,3,n,3,NA,y,1892,04,08,bedret,hjem,y,n,bedret
+4901,Ane Dusine,Christensen,f,husmands hustru,Flade,44,gift,1891,05,30,hjemmet,melankoli,melankoli,NA,60,3,y,4,1,y,1891,09,27,uhelbredt,hjem,n,n,uhelbredt
+4902,Ane Sophie,Hornsleth,f,vaertshusholders datter,Grenaa,65,ugift,1891,06,08,hjemmet,melankoli,melankoli,NA,42,3,y,4,1,n,1891,08,20,helbredt,hjem,n,n,helbredt
+4905,Sine Kirstine,Christensen,f,snedkers hustru,Noeddelund,31,gift,1891,06,15,hjemmet,mani,mani,NA,3,3,y,4,1,y,1891,07,08,doed,NA,n,NA,doed
+4906,Mette,Nielsen,f,tjenende,Falling,20,ugift,1891,06,15,sygehus,mani,mani,NA,35,3,y,4,1,y,1891,11,06,helbredt,hjem,n,y,genindlagt
+4907,Johanne Marie,Nielsen,f,tjenende,Nees,21,ugift,1891,06,15,sygehus,melankoli,melankoli,NA,270,3,y,4,1,y,1901,09,02,doed,NA,n,NA,doed
+4910,Kirstine Marie,Steffensen,f,tjenende,Sejerslev-Kjerslev,27,ugift,1891,06,18,sygehus,melankoli,melankoli,NA,548,3,y,4,1,y,1904,04,06,uhelbredt,anstalt,n,y,genindlagt
+4911,Hansine,Moeller,f,husmands hustru,Sebitrup,25,gift,1891,06,20,hjemmet,mani,mani,NA,7,3,y,4,1,n,1892,02,03,helbredt,hjem,n,n,helbredt
+4914,Maren Nielsen,Olesen,f,gaardmands hustru,Jebjerg,28,gift,1891,06,24,hjemmet,melankoli,melankoli,NA,90,3,y,4,1,n,1891,08,05,doed,NA,n,NA,doed
+4920,Madline Christine,Jensen,f,gaardmands datter,Ravnstrup,16,ugift,1891,07,02,hjemmet,fatuitet,fatuitet,NA,457,3,n,3,1,n,1893,03,23,uhelbredt,hjem,n,n,uhelbredt
+4921,Rasmine Kirstine Marie,Pedersen,f,gaardejerske,Hornsyld,31,ugift,1891,07,03,hjemmet,melankoli,melankoli,NA,365,2,n,2,1,y,1892,03,03,uhelbredt,hjem,n,y,genindlagt
+4922,Petra Marie Kirstine Erikgine,Petersen,f,skibsfoerers hustru,Endelave,26,gift,1891,07,03,hjemmet,melankoli,melankoli,NA,120,3,n,3,1,y,1891,11,06,helbredt,hjem,n,n,helbredt
+4923,Ane,Mikkelsen,f,arbejdsmands hustru,Gammel,49,gift,1891,07,05,hjemmet,mani,mani,NA,NA,3,y,4,NA,y,1903,01,31,uhelbredt,anstalt,y,n,uhelbredt
+4927,Ane Dominica,Gam,f,laerers hustru,Taanum,51,gift,1891,07,14,hjemmet,mani,mani,NA,210,3,n,3,NA,y,1891,08,26,bedret,hjem,n,y,genindlagt
+4931,Inger,Brunsgaard,f,koebmands hustru,Snedsted,61,gift,1891,07,22,sygehus,melankoli,melankoli,NA,105,2,n,2,2,y,1891,12,27,uhelbredt,hjem,n,n,uhelbredt
+4934,Maren Andersen,Rold,f,husmands hustru,Ejstrup Shoohuse,54,gift,1891,07,27,hjemmet,melankoli,melankoli,NA,35,3,n,3,1,y,1891,10,02,helbredt,hjem,n,n,helbredt
+4935,Andrea Nielsine Henriette,Bredstrup,f,proprietaers hustru,Elsegaard,47,gift,1891,08,05,hjemmet,mani,mani,NA,NA,2,n,2,NA,y,1891,09,09,helbredt,hjem,y,y,genindlagt
+4936,Laura Kathrine,Hansen,f,dyrlaeges hustru,Fjerritslev,52,gift,1891,08,06,hospitalshjem,melankoli,melankoli,NA,NA,2,n,2,1,y,1891,09,25,helbredt,hjem,n,n,helbredt
+4937,Kirstine Marie,Nielsen,f,mejeribestyrers hustru,Elling,25,gift,1891,08,07,sygehus,mani,mani,NA,60,3,y,4,1,n,1891,12,21,helbredt,hjem,n,n,helbredt
+4938,Petra Jensine,Kiilsgaard,f,laerers hustru,Skive,68,gift,1891,08,10,hjemmet,melankoli,melankoli,NA,90,2,n,2,5,n,1891,09,08,uhelbredt,hjem,n,n,uhelbredt
+4939,Else Kirstine,Christensen,f,husmands hustru,Sejerslev,31,gift,1891,08,11,hjemmet,melankoli,melankoli,NA,300,3,y,4,3,y,1892,01,14,bedret,hjem,n,n,bedret
+4940,Maren,Petersen,f,tjenende,Barrit,28,ugift,1891,08,12,fattigaard,mani,mani,NA,60,3,y,4,NA,y,1893,09,12,helbredt,fattigaard,y,y,genindlagt
+4944,Frederikke Pouline,Frederiksen,f,tjenende,Vive,22,ugift,1891,09,04,sygehus,mani,mani,NA,NA,3,y,4,NA,n,1892,06,07,helbredt,hjem,n,n,helbredt
+4947,Julie,Simon,f,husbestyrerinde,Randers,64,ugift,1891,09,05,sygehus,mani,mani,NA,28,3,y,4,1,y,1891,12,05,helbredt,hjem,n,y,genindlagt
+4948,Ane Marie Kirstine,Johansen,f,fiskers hustru,Loekken,29,gift,1891,09,06,sygehus,mani,mani,NA,420,3,n,3,1,n,1896,11,07,bedret,fattigaard,n,n,bedret
+4950,Karen,Jensen,f,arbejdsmands hustru,Todbjerg,37,gift,1891,09,09,hjemmet,melankoli,melankoli,NA,180,3,y,4,1,y,1891,12,19,uhelbredt,hjem,n,n,uhelbredt
+4954,Marie Kirstine,Soerensen,f,landposts enke,Lemming,61,enke,1891,10,02,hjemmet,dementia,dementia,NA,90,3,y,4,1,y,1892,11,17,doed,NA,n,NA,doed
+4956,Mette Marie,Christensen,f,tjenende,Gjoedvad-Balle,19,ugift,1891,10,05,hjemmet,dementia,dementia,NA,365,3,y,4,1,n,1892,06,08,helbredt,hjem,n,n,helbredt
+4957,Kirstine Christensen,Soerensen,f,gaardmands datter,Torslev,30,ugift,1891,10,05,hjemmet,mani,mani,NA,180,3,n,3,1,n,1893,03,28,uhelbredt,hjem,n,n,uhelbredt
+4959,Ane Petersen,Noerregaard,f,gaardmands datter,Koldt,26,ugift,1891,10,06,sygehus,melankoli,melankoli,NA,49,3,n,3,1,y,1892,01,07,helbredt,hjem,n,n,helbredt
+4961,Maren,Christensen,f,husmands hustru,Styvel,47,gift,1891,10,07,hjemmet,melankoli,melankoli,NA,270,3,y,4,NA,y,1891,11,23,helbredt,hjem,n,y,genindlagt
+4962,Ane,Aggersholm,f,bolsmands hustru,oerding,52,gift,1891,10,08,sygehus,melankoli,melankoli,NA,75,3,y,4,2,y,1892,05,22,uhelbredt,hjem,n,n,uhelbredt
+4963,Johanne,Hjortshoej,f,gaardmands datter,Vejlby,26,ugift,1891,10,10,hjemmet,mani,mani,NA,5,3,n,3,2,y,1892,02,19,bedret,hjem,y,y,genindlagt
+4964,Ane Marie,Jensen,f,gaardmands hustru,Foevling Mark,40,gift,1891,10,12,hjemmet,melankoli,melankoli,NA,150,3,y,4,2,n,1891,11,17,uhelbredt,hjem,n,n,uhelbredt
+4965,Severine Christine,Nielsen,f,tjenende,Tolstrup,29,ugift,1891,10,16,fattigaard,fatuitet,fatuitet,NA,2920,3,y,4,1,y,1893,03,25,uhelbredt,hjem,y,n,uhelbredt
+4966,Kirstine,Bruhn,f,plantoers hustru,Vang,23,gift,1891,10,17,sygehus,melankoli,melankoli,NA,28,3,y,4,1,y,1892,05,11,helbredt,hjem,n,n,helbredt
+4967,Bodil Marie Wiel,Lange,f,praests datter,Hals,18,ugift,1891,10,25,sygehus,vanvid,vanvid,NA,NA,2,n,2,1,y,1893,06,29,helbredt,pensionat,n,n,helbredt
+4971,Mette Kathrine Soerensen,Daugaard,f,gaardmands datter,Rask Mark,24,ugift,1891,11,10,hjemmet,melankoli,melankoli,NA,60,2,n,2,1,n,1892,09,16,helbredt,hjem,n,n,helbredt
+4974,Ane Marie,Christensen,f,tjenende,Bindslev,33,ugift,1891,11,23,hjemmet,melankoli,melankoli,NA,42,3,y,4,2,n,1893,02,02,helbredt,hjem,n,n,helbredt
+4975,Karen Kirstine Marie,Nielsen,f,arbejdsmands hustru,Albaek,27,gift,1891,11,25,sygehus,mani,mani,NA,28,3,y,4,2,y,1892,03,05,helbredt,hjem,n,n,helbredt
+4976,Mette Marie,Christensen,f,husmands hustru,,59,gift,1891,11,25,hjemmet,mani,mani,NA,150,3,y,4,10,y,1892,03,21,helbredt,hjem,y,n,helbredt
+4977,Ane Kathrine,Winther,f,slagters hustru,Horsens,61,gift,1891,11,26,pensionat,mani,mani,NA,730,2,n,2,2,y,1892,09,27,doed,NA,y,NA,doed
+4978,Edeline Jensen,Brokholm,f,gaardmands datter,Noerthise,38,ugift,1891,11,27,sygehus,mani,mani,NA,NA,3,n,3,NA,y,1892,09,30,uhelbredt,hjem,n,n,uhelbredt
+4980,Elisabeth,Refsgaard,f,husmands enke,Haasum,68,enke,1891,12,03,sygehus,mani,mani,NA,60,3,y,4,NA,y,1898,08,09,bedret,familie,y,n,bedret
+4982,Marie Kirstine,Nielsen,f,teglbraenders hustru,Slubberup,38,gift,1891,12,05,sygehus,forvirring,dementia,NA,NA,3,y,4,NA,n,1892,12,30,bedret,hjem,n,n,bedret
+4983,Birthe Marie,Nielsen,f,saddelmagers hustru,Hjoerring,66,gift,1891,12,08,fattigaard,mani,mani,NA,35,3,y,4,1,y,1899,08,10,bedret,hjem,n,n,bedret
+4985,Julie Marie Louise Anna,Moeller,f,koebmands datter,Randers,21,ugift,1891,12,12,pensionat,mani,mani,NA,730,3,y,4,1,y,1898,09,30,bedret,,n,n,bedret
+4986,Jensine,Soerensen,f,gaardejers hustru,Poulstrup,53,gift,1891,12,12,hjemmet,vanvid,vanvid,NA,1460,3,n,3,1,n,1892,01,09,uhelbredt,hjem,n,n,uhelbredt
+4988,Inger,Knudsdatter,f,gaardmands hustru,Tidstrup,57,gift,1891,12,21,hjemmet,mani,mani,NA,5,3,n,3,2,y,1892,01,01,doed,NA,y,NA,doed
+4991,Anna Clara Emilie,Wraae,f,adjunkts hustru,Horsens,44,gift,1891,12,28,hjemmet,mani,mani,NA,8,2,n,2,NA,y,1893,01,05,bedret,hjem,n,y,genindlagt
+4821,Carl Johan Edvard,Jacobsen,m,maskinarbejder,Aarhus,42,ugift,1891,01,01,anstalt,dementia,dementia,progressiv parese,274,3,y,4,1,y,1894,01,12,doed,NA,n,NA,doed
+4822,Peter Carl Christian,Larsen,m,karetmager,Aarhus,48,gift,1891,01,02,hjemmet,dementia,dementia,progressiv parese,92,2,n,2,1,n,1896,03,26,doed,NA,y,NA,doed
+4824,Soeren Soerensen,Hvid,m,gaardejer,Askildrup,35,gift,1891,01,04,hjemmet,melankoli,melankoli,NA,120,2,n,2,3,n,1891,03,17,bedret,hjem,n,n,bedret
+4826,Jens Laurits Soerensen,Ruus,m,gaardmands soen,Fraeer,41,ugift,1891,01,09,hjemmet,mani,mani,NA,274,3,n,3,6,y,1904,04,18,doed,NA,y,NA,doed
+4831,Niels Marius,Vissing,m,gartner,Alling-Tulstrup,30,ugift,1891,01,22,sygehus,mani,mani,NA,1825,3,y,4,1,y,1892,03,18,uhelbredt,hjem,n,n,uhelbredt
+4833,Mikkel Kirk Froeslev,Larsen,m,gaardmands soen,Toeving,23,ugift,1891,01,25,anstalt,mani,mani,NA,150,3,n,3,1,y,1891,03,29,helbredt,hjem,n,y,genindlagt
+4835,Hans Carl Martin,Jacobsen,m,skomager,Horsens,31,ugift,1891,01,30,fattigaard,mani,mani,epilepsi,30,3,y,4,NA,y,1891,09,02,helbredt,fattigaard,n,n,helbredt
+4836,Niels Marius,Vissing,m,arbejdsmand,Aarhus,49,gift,1891,01,31,hjemmet,vanvid,vanvid,NA,4,3,y,4,1,y,1891,03,24,bedret,hjem,n,y,genindlagt
+4839,Jens Madsen,Jensen,m,skomager,Hedebjerghus,32,gift,1891,02,05,hjemmet,mani,mani,NA,45,3,y,4,3,y,1891,05,01,helbredt,hjem,n,y,genindlagt
+4843,Johan Henrik,Schöltz,m,tjenende,Farre,20,ugift,1891,02,22,arrest,forvirring,dementia,epilepsi,NA,3,y,4,NA,n,1891,05,22,uhelbredt,arrest,n,y,genindlagt
+4845,Peder,Soerensen,m,husmand,Skjoldelev,38,gift,1891,02,25,hjemmet,melankoli,melankoli,NA,240,3,y,4,3,n,1891,03,25,helbredt,hjem,y,n,helbredt
+4849,Otto Frederik Ludvig,Schjoetz,m,proprietaer,Vesternejsig,61,gift,1891,03,02,hjemmet,melankoli,melankoli,NA,365,1,n,1,1,y,1891,05,10,doed,NA,n,NA,doed
+4851,Rasmus,Madsen,m,husmand,Braarup,69,enkemand,1891,03,05,hjemmet,fatuitet,fatuitet,NA,2190,3,y,4,1,n,1891,10,23,doed,NA,n,NA,doed
+4852,Georg,Groot,m,forvalter,Aarhus,25,ugift,1891,03,06,sygehus,mani,mani,NA,11,3,n,3,1,y,1892,03,05,helbredt,hjem,n,n,helbredt
+4855,Carl,Thomassen,m,tjenende,oerting,19,ugift,1891,03,11,sygehus,forvirring,dementia,NA,274,3,y,4,1,y,1904,03,03,uhelbredt,anstalt,n,y,genindlagt
+4857,Poul,Thorkildsen,m,murer,Malling,38,gift,1891,03,23,hjemmet,mani,mani,NA,10,3,y,4,1,y,1891,05,07,doed,NA,n,NA,doed
+4858,Anders Christian Friis,Kjaer,m,soemand,Aarhus,21,ugift,1891,03,25,hjemmet,forvirring,dementia,NA,730,3,n,3,1,n,1904,04,06,uhelbredt,anstalt,n,n,uhelbredt
+4859,Vilhelm,Nielsen,m,skomagersvend,Flade,33,ugift,1891,03,26,sygehus,mani,mani,NA,60,3,y,4,1,n,1891,08,14,helbredt,hjem,n,n,helbredt
+4860,Poul Dalgaard,Jensen,m,hestepasser,Randers,22,ugift,1891,03,27,sygehus,melankoli,melankoli,NA,21,3,y,4,1,y,1891,06,23,helbredt,hjem,n,n,helbredt
+4863,Frederik,Behrens,m,proprietaer,Roennovsholm,45,gift,1891,04,04,sygehus,melankoli,melankoli,NA,NA,1,n,1,1,n,1891,06,01,NA,NA,NA,NA,NA
+4865,Charlo Anders Valdemar Emil,Wissing,m,tegner,Aarhus,22,ugift,1891,04,08,sygehus,melankoli,melankoli,epilepsi,90,2,n,2,1,y,1891,08,07,helbredt,hjem,n,n,helbredt
+4866,Christen Thoeger,Pallesen,m,boedkers soen,skive,14,ugift,1891,04,09,hjemmet,forvirring,dementia,NA,90,3,y,4,1,n,1900,08,27,doed,NA,n,n,doed
+4867,Rasmus,Lihnse,m,dyrlaege,Ramme,47,ugift,1891,04,10,sygehus,melankoli,melankoli,NA,150,2,n,2,NA,y,1891,11,04,helbredt,kollega,n,n,helbredt
+4870,Carl,Frederiksen,m,tjenende,Hjortsvang,17,ugift,1891,04,15,hjemmet,mani,mani,NA,21,3,y,4,NA,y,1891,08,22,helbredt,hjem,n,n,helbredt
+4871,Niels Peter,Jensen,m,fattiglem,Fruering,36,ugift,1891,04,22,hjemmet,fatuitet,fatuitet,epilepsi,NA,3,y,4,1,n,1898,03,02,uhelbredt,NA,n,n,uhelbredt
+4873,Peder Axel Poul Sadolin,Jensen,m,handelsbogholder,Hoerning,33,ugift,1891,04,25,hjemmet,melankoli,melankoli,progressiv parese,28,3,n,3,1,n,1892,03,22,helbredt,hjem,n,n,helbredt
+4875,Johan Peder,Bartholdy,m,sognepraest,Laurbjerg,32,gift,1891,04,27,hjemmet,melankoli,melankoli,NA,1095,1,n,1,2,y,1892,10,31,helbredt,hjem,n,n,helbredt
+4877,Jens Peter,Soerensen,m,laerer,Aarslev,51,gift,1891,04,27,hjemmet,dementia,dementia,NA,365,3,y,4,NA,n,1892,02,01,doed,NA,y,NA,doed
+4880,Niels Peter,Jensen,m,husmands soen,Vester Torup,21,ugift,1891,05,01,hjemmet,mani,mani,NA,28,3,y,4,1,y,1891,09,08,helbredt,hjem,n,n,helbredt
+4881,Thomas Vilhelm,Stjernholm,m,gaardmand,oester Boersting,61,gift,1891,05,01,sygehus,mani,mani,NA,45,3,y,4,11,y,1892,03,18,helbredt,hjem,y,y,genindlagt
+4882,Carl Peter Christian,Larsen,m,blikkenslagersvend,Aalborg,27,ugift,1891,05,02,sygehus,melankoli,melankoli,NA,60,3,y,4,1,y,1891,08,27,helbredt,hjem,n,n,helbredt
+4885,Lars Pedersen,Kaagaard,m,gaardmands soen,Sjoerring,38,ugift,1891,05,03,sygehus,mani,mani,NA,45,3,y,4,NA,y,1891,05,14,doed,NA,y,NA,doed
+4886,Erik,Soerensen,m,murer,Vinderslev,37,ugift,1891,05,05,hjemmet,forvirring,dementia,NA,2555,3,y,4,NA,y,1900,09,29,uhelbredt,hjem,n,y,genindlagt
+4887,Jens Martinus,Moeller,m,handelsagent,Aarhus,35,gift,1891,05,08,fattigaard,fatuitet,fatuitet,progressiv parese,365,3,y,4,1,y,1892,05,07,doed,NA,n,NA,doed
+4891,Niels Christensen,Bak,m,gaardmand,Graettrup,39,ugift,1891,05,14,arrest,ikke sindssyg,ikke sindssyg,NA,NA,3,y,4,NA,NA,1891,09,14,ikke sindssyg,arrest,n,n,ikke sindssyg
+4893,Niels Marius,Wissing,m,arbejdsmand,Aarhus,49,gift,1891,05,15,fattigaard,vanvid,vanvid,NA,120,3,y,4,1,y,1894,03,21,uhelbredt,fattigaard,y,n,uhelbredt
+4895,Jens Peter,Rasmussen,m,gaardmand,Laven Linaa,76,gift,1891,05,16,sygehus,dementia,dementia,NA,NA,2,n,2,NA,y,1892,11,01,doed,NA,y,NA,doed
+4896,Frederik Ole Rye,Thomsen,m,cigarmager,Aalborg,42,gift,1891,05,19,hjemmet,melankoli,melankoli,NA,2555,3,y,4,1,n,1891,11,15,uhelbredt,hjem,n,n,uhelbredt
+4897,Peder,Danielsen,m,husmand,Skorup,66,gift,1891,05,23,hjemmet,melankoli,melankoli,NA,42,3,y,4,2,y,1891,07,06,doed,NA,n,NA,doed
+4899,Niels Christensen,Stelfeldt,m,straffefange,Aarhus,54,enkemand,1891,05,25,tugthus,vanvid,vanvid,NA,NA,3,n,3,NA,y,1898,09,01,bedret,Aarhus,y,y,genindlagt
+4900,Knud Pedersen,Dybbro,m,gaardmand,N Tranders,70,gift,1891,05,25,sygehus,mani,mani,NA,NA,3,y,4,4,n,1891,09,21,helbredt,hjem,y,n,helbredt
+4903,Peder,Soerensen,m,gaardmand,Haar,66,enkemand,1891,06,09,hjemmet,melankoli,melankoli,NA,548,2,n,2,1,y,1897,09,30,bedret,hjem,y,n,bedret
+4904,Jens,Jensen,m,arbejdsmand,Hadslev,59,gift,1891,06,10,hjemmet,mani,mani,NA,30,3,y,4,NA,y,1891,08,15,helbredt,hjem,y,y,genindlagt
+4908,Peder Jensen,Strande,m,husmand,Vimb,47,gift,1891,06,16,sygehus,mani,mani,NA,730,3,y,4,NA,y,1891,07,31,helbredt,hjem,n,n,helbredt
+4909,Peder,Frederiksen,m,husmand,Hjortsvang,57,gift,1891,06,17,hjemmet,mani,mani,NA,60,3,y,4,NA,y,1891,08,22,helbredt,hjem,n,y,genindlagt
+4912,Carl Frederik Ferdinand,Jansen,m,handelskommissionaer,Skive,26,ugift,1891,06,22,hjemmet,dementia,dementia,epilepsi,457,3,y,4,1,y,1906,03,06,uhelbredt,anstalt,n,n,uhelbredt
+4913,Niels,Andersen,m,arbejdsmand,Holbaek,47,enkemand,1891,06,24,sygehus,mani,mani,NA,60,3,y,4,1,y,1892,07,22,helbredt,fattigaard,n,n,helbredt
+4915,Johannes Anton Harald,Federspiel,m,handelsmand,Aarhus,33,ugift,1891,06,27,hjemmet,fatuitet,fatuitet,progressiv parese,730,2,n,2,1,n,1893,02,08,doed,NA,n,NA,doed
+4916,Bernhard,Jensen,m,gaardejers soen,Engholm,35,ugift,1891,06,28,hjemmet,dementia,dementia,NA,NA,2,n,2,1,y,1927,10,26,uhelbredt,NA,n,n,uhelbredt
+4917,Gregers,Larsen,m,arbejdsmand,Nibe,61,gift,1891,06,30,hjemmet,dementia,dementia,progressiv parese,365,3,y,4,1,n,1891,07,10,doed,NA,n,NA,doed
+4918,Christen,Hansen,m,fattiglem,Skanders,50,enkemand,1891,06,30,sygehus,mani,mani,NA,7,3,y,4,9,n,1891,09,02,helbredt,hjem,y,n,helbredt
+4919,Anders Christian,Christensen,m,gaardmand,Barmer,45,gift,1891,07,02,hjemmet,forvirring,dementia,epilepsi,NA,3,n,3,1,y,1899,09,01,bedret,hjem,n,n,bedret
+4924,Jens,Svendsen,m,arrestant,Lynderup,25,ugift,1891,07,06,arrest,fatuitet,fatuitet,NA,NA,3,y,4,1,n,1891,10,05,uhelbredt,arrest,n,y,genindlagt
+4925,Frederik Christian,Ring,m,snedker,Viborg,24,ugift,1891,07,10,anstalt,mani,mani,NA,183,3,y,4,1,y,1892,03,06,helbredt,hjem,n,n,helbredt
+4926,Thorvald Martinus,Jensen,m,tjenende,Ustrup,16,ugift,1891,07,13,fattigaard,mani,mani,NA,90,3,y,4,3,n,1892,08,08,helbredt,hjem,n,n,helbredt
+4928,Peder Christian,Thomsen,m,tjenende,Gadholt,20,ugift,1891,07,21,hjemmet,mani,mani,NA,49,3,y,4,1,y,1892,03,25,helbredt,hjem,n,y,genindlagt
+4929,Jens,Hansen,m,gaardbestyrer,Vellev,40,gift,1891,07,21,hjemmet,melankoli,melankoli,NA,60,3,y,4,1,y,1891,10,23,uhelbredt,hjem,n,n,uhelbredt
+4930,Lars,Loefstroem,m,maskinarbjeder,Aarhus,32,gift,1891,07,22,fattigaard,mani,mani,NA,14,3,y,4,2,n,1891,09,18,uhelbredt,Sverige,y,n,uhelbredt
+4932,Abraham,Andersen,m,arrestant,Daugstrup,47,gift,1891,07,23,arrest,ikke sindssyg,ikke sindssyg,NA,NA,3,y,4,NA,NA,1891,10,25,ikke sindssyg,arrest,n,n,ikke sindssyg
+4933,Jens,Nielsen,m,daglejer,Borup,27,ugift,1891,07,26,sygehus,forvirring,dementia,NA,10,3,y,4,1,y,1891,12,29,uhelbredt,hjem,n,y,genindlagt
+4941,Anders,Pedersen,m,husmand,Astrup,58,gift,1891,08,21,hjemmet,melankoli,melankoli,NA,210,3,y,4,2,y,1892,08,24,bedret,hjem,n,n,bedret
+4942,Aage,Pedersen,m,arrestant,Aarhus,19,ugift,1891,08,23,arrest,ikke sindssyg,ikke sindssyg,NA,NA,3,y,4,NA,NA,1891,11,15,ikke sindssyg,kasserne,n,n,ikke sindssyg
+4943,Rasmus Poder,Nielsen,m,gaardejer,Braa Mark,36,gift,1891,08,28,hjemmet,mani,mani,NA,21,3,n,3,1,n,1891,10,17,helbredt,hjem,n,y,genindlagt
+4945,Jens Jensen Levring,Godske,m,arrestant,Silkeborg,50,ugift,1891,09,04,arrest,fatuitet,fatuitet,NA,NA,3,y,4,1,n,1891,11,26,uhelbredt,arrest,n,n,uhelbredt
+4946,Vilhelm Katarsus,Dalgaard,m,skolelaerers soen,Kjaergaardsej,28,ugift,1891,09,04,hjemmet,melankoli,melankoli,NA,60,3,n,3,2,y,1894,04,30,uhelbredt,fattigaard,n,n,uhelbredt
+4949,Anders,Pedersen,m,husmand,Gjoedvad,50,gift,1891,09,07,hjemmet,fatuitet,fatuitet,NA,2190,3,y,4,1,n,1892,09,30,doed,NA,n,NA,doed
+4951,Anton,Petersen,m,tjenende,Dyrby,31,ugift,1891,09,11,sygehus,melankoli,melankoli,NA,120,3,y,4,1,y,1892,01,29,helbredt,hjem,n,n,helbredt
+4952,Jens Knud,Lisborg,m,fisker,Bangsbostrand,19,ugift,1891,09,21,sygehus,vanvid,vanvid,NA,365,3,y,4,1,y,1897,05,24,bedret,hjem,n,y,genindlagt
+4953,Frederik Ferdinand,Hald,m,skomagersvend,Ebeltoft,57,ugift,1891,09,30,arrest,mani,mani,NA,30,3,y,4,2,y,1892,07,19,helbredt,hjem,y,n,helbredt
+4955,Sofus,Neisl,m,toemrer,Flade,29,ugift,1891,10,05,fattigaard,vanvid,vanvid,NA,1460,3,y,4,3,n,1897,08,30,doed,NA,y,NA,doed
+4958,Frederik Christian,Wimmelmann,m,cigarmager,Randers,60,gift,1891,10,06,fattigaard,vanvid,vanvid,NA,NA,3,y,4,1,y,1893,12,23,doed,NA,n,NA,doed
+4960,Hendrik,Espersen,m,aftaegtsmand,Nannerup,52,enkemand,1891,10,07,hjemmet,mani,mani,NA,120,3,y,4,NA,y,1891,12,22,helbredt,hjem,y,y,genindlagt
+4968,Soeren Jespersen Jensen,Kjaer,m,murer,Hoerning,72,enkemand,1891,10,30,hjemmet,fatuitet,fatuitet,NA,120,3,y,4,1,n,1891,12,01,doed,NA,n,NA,doed
+4969,Bertel,Bertelsen,m,husmands soen,Roedding,22,ugift,1891,11,03,sygehus,forvirring,dementia,epilepsi,2555,3,y,4,1,y,1899,12,06,doed,NA,y,NA,doed
+4970,Niels Jensen,Hoeghholm,m,gaardmand,Refs,71,gift,1891,11,03,hjemmet,mani,mani,NA,365,3,n,3,1,y,1892,03,07,doed,NA,n,NA,doed
+4972,Christen,Christensen,m,gaardmands soen,Store Broendum,34,ugift,1891,11,11,hjemmet,melankoli,melankoli,NA,60,3,n,3,NA,y,1928,07,24,doed,NA,y,NA,doed
+4973,Jens,Albertsen,m,bolsmand,Eriknaur Mark,31,gift,1891,11,14,sygehus,melankoli,melankoli,NA,28,3,n,3,1,n,1902,12,11,doed,NA,n,NA,doed
+4979,Laurits Peter,Pedersen,m,arbejdsmand,Aasted,32,gift,1891,12,02,sygehus,melankoli,melankoli,NA,60,3,y,4,4,y,1906,03,06,uhelbredt,anstalt,y,n,uhelbredt
+4981,Jacob Christensen,Koldby,m,fattiglem,Stadil,32,ugift,1891,12,05,hjemmet,fatuitet,fatuitet,NA,NA,3,y,4,1,y,1892,06,30,uhelbredt,hjem,y,n,uhelbredt
+4984,Christian Poulsen,Kirk,m,laerer,Bedsted,37,gift,1891,12,11,sygehus,mani,mani,NA,21,3,y,4,1,y,1891,12,23,doed,NA,n,NA,doed
+4987,Nathanael Zahle,Gjerlöff,m,cand. polit,Frederiksborg,29,gift,1891,12,12,Samsoe Hjemmet,mani,mani,progressiv parese,120,1,n,1,1,y,1892,05,31,doed,NA,n,NA,doed
+4989,Jens Christian,Rasmussen,m,blikkenslagersvend,Aarhus,47,ugift,1891,12,21,fattigaard,fatuitet,fatuitet,epilepsi,NA,3,y,4,1,y,1892,08,04,doed,NA,n,NA,doed
+4990,Christen Marinus,Christensen,m,arbejdsmand,Aasted-Skjaerum,29,ugift,1891,12,28,sygehus,mani,mani,NA,150,3,y,4,1,y,1892,11,03,helbredt,hjem,n,y,genindlagt

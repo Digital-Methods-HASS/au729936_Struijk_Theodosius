@@ -1,0 +1,30 @@
+column_name,description,deviation_from_sources
+admission_no,The admission number as recorded in the admission registers,NA
+first_name,The first name(s) of the patient,NA
+last_name,The last name of the patient,NA
+sex,The sex of the patient. f signifies female and m signifies male.,NA
+occupation,"The patient's occupation, status, education or previous occupation",The sources specifies if an occupation is previous
+home,The patient's home town or parish,"The sources frequently lists parish (sogn), county (herred) and district (amt). Only the town or parish is in this dataset"
+age,The patient's age at admission,NA
+marital_status,The patient's marital status,NA
+admission_yyyy,The year of admission,NA
+admission_mm,The month of admission,NA
+admission_dd,The day of admission,NA
+from,Where the patient was admitted from,"The sources often names specific hospitals, poor houses, etc. rather than categorizing them"
+diagnosis,Primary diagnosis given to the patient as listed in the source,The source also notes when mania is periodic. 
+diagnosis_adjusted,"Primary diagnosis given to the patient where forvirring is given as fatuitet, as these are synonyms",Not in the sources
+diagnosis_addittional,Adittional diagnosis given to the patient,In the sources appears under or above diagnosis
+duration,How many whole days the patient was sick before admission. Years are calculated as 365 days while months are calculated as 30 days wherefore durations of 1 month or above may have inaccuracies of 1-5 days per year.,"The sources occasionally gives duration as a range or an unspecified amount, f.ex. several years (fl. Aar) which in the dataset has been entered as NA while the ranges have been entered by the longest duration; 4-5 months is entered as 5 months."
+class,Which of three payment and service classes the patient was admitted in,NA
+half_price,Whether or not the patient was admitted at half price. The poorest patients could be admitted in 3rd class at half the standard price.,"If the patient had not been ill for long and qualified for half payment, they could be admitted the first 3 months free of charge (3 M.frit), which is not in this dataset."
+class_adjusted,Which of four payment  classes the patient was admitted in where those paying half price are represented as a fourth class,Not in the sources
+attack_no,How many attacks of the illness the patient had suffered at admittance,The sources occasionally recorded the number of attacks as several (fl.) which have been entered in the data as NA
+family_predisposition,Whether or not it was known that other family members had suffered from mental illness. y signifies yes and n signifies no,NA
+departure_yyyy,The year the patient departed the facility,NA
+departure_mm,The month the patient departed the facility,NA
+departure_dd,The day the patient departed the facility,NA
+condition,The condition of the patient at departure,"The sources occationally record cause of death. One instance of ""uforandret"" (unchanged) has been entered as ""uhelbredt"" (uncured)"
+to,Where the patient departed to,"The sources often names specific hospitals, poor houses, etc. rather than categorizing them"
+previously_admitted,Whether or not the patient had previously been admitted. y signifies yes and n signifies no,Seen in the sources as an older admission number
+re_admission,Whether or not the patient was later readmitted. y signifies yes and n signifies no,Seen in the sources as a new admission number
+condition_adjusted,The condition of the patient at departure adjusted to reflect re-admittance,Not in the sources
